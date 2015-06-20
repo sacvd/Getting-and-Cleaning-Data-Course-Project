@@ -10,7 +10,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 ## Tidy Data Set List of Variables
 
 
- Subject
+ ### Subject
 
 --------------------------------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  Activity
+   ### Activity
 
 --------------------------------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-   timeBodyAccelerometer.mean.X
+    ### timeBodyAccelerometer.mean.X
 
 --------------------------------------------------------------------------------------------------
 
@@ -55,7 +55,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-   timeBodyAccelerometer.mean.Y
+    ### timeBodyAccelerometer.mean.Y
 
 --------------------------------------------------------------------------------------------------
 
@@ -71,7 +71,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeBodyAccelerometer.mean.Z
+   ### timeBodyAccelerometer.mean.Z
 
 --------------------------------------------------------------------------------------------------
 
@@ -87,7 +87,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeBodyAccelerometer.std.X
+   ### timeBodyAccelerometer.std.X
 
 --------------------------------------------------------------------------------------------------
 
@@ -103,7 +103,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeBodyAccelerometer.std.Y
+   ### timeBodyAccelerometer.std.Y
 
 --------------------------------------------------------------------------------------------------
 
@@ -119,7 +119,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeBodyAccelerometer.std.Z
+   ### timeBodyAccelerometer.std.Z
 
 --------------------------------------------------------------------------------------------------
 
@@ -135,7 +135,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeGravityAccelerometer.mean.X
+   ### timeGravityAccelerometer.mean.X
 
 --------------------------------------------------------------------------------------------------
 
@@ -151,7 +151,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeGravityAccelerometer.mean.Y
+   ### timeGravityAccelerometer.mean.Y
 
 --------------------------------------------------------------------------------------------------
 
@@ -167,7 +167,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeGravityAccelerometer.mean.Z
+   ### timeGravityAccelerometer.mean.Z
 
 --------------------------------------------------------------------------------------------------
 
@@ -183,7 +183,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeGravityAccelerometer.std.X
+   ### timeGravityAccelerometer.std.X
 
 --------------------------------------------------------------------------------------------------
 
@@ -199,7 +199,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeGravityAccelerometer.std.Y
+   ### timeGravityAccelerometer.std.Y
 
 --------------------------------------------------------------------------------------------------
 
@@ -215,7 +215,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeGravityAccelerometer.std.Z
+  ### timeGravityAccelerometer.std.Z
 
 --------------------------------------------------------------------------------------------------
 
@@ -231,7 +231,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeBodyAccelerometerJerk.mean.X
+  ### timeBodyAccelerometerJerk.mean.X
 
 --------------------------------------------------------------------------------------------------
 
@@ -247,7 +247,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeBodyAccelerometerJerk.mean.Y
+  ### timeBodyAccelerometerJerk.mean.Y
 
 --------------------------------------------------------------------------------------------------
 
@@ -263,7 +263,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeBodyAccelerometerJerk.mean.Z
+  ### timeBodyAccelerometerJerk.mean.Z
 
 --------------------------------------------------------------------------------------------------
 
@@ -279,7 +279,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeBodyAccelerometerJerk.std.X
+  ### timeBodyAccelerometerJerk.std.X
 
 --------------------------------------------------------------------------------------------------
 
@@ -295,7 +295,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeBodyAccelerometerJerk.std.Y
+  ### timeBodyAccelerometerJerk.std.Y
 
 --------------------------------------------------------------------------------------------------
 
@@ -311,7 +311,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeBodyAccelerometerJerk.std.Z
+  ### timeBodyAccelerometerJerk.std.Z
 
 --------------------------------------------------------------------------------------------------
 
@@ -327,7 +327,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeBodyGyroscope.mean.X
+  ### timeBodyGyroscope.mean.X
 
 --------------------------------------------------------------------------------------------------
 
@@ -343,7 +343,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeBodyGyroscope.mean.Y
+  ### timeBodyGyroscope.mean.Y
 
 --------------------------------------------------------------------------------------------------
 
@@ -359,7 +359,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeBodyGyroscope.mean.Z
+  ### timeBodyGyroscope.mean.Z
 
 --------------------------------------------------------------------------------------------------
 
@@ -375,7 +375,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeBodyGyroscope.std.X
+  ### timeBodyGyroscope.std.X
 
 --------------------------------------------------------------------------------------------------
 
@@ -391,7 +391,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeBodyGyroscope.std.Y
+  ### timeBodyGyroscope.std.Y
 
 --------------------------------------------------------------------------------------------------
 
@@ -407,7 +407,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeBodyGyroscope.std.Z
+  ### timeBodyGyroscope.std.Z
 
 --------------------------------------------------------------------------------------------------
 
@@ -423,7 +423,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeBodyGyroscopeJerk.mean.X
+  ### timeBodyGyroscopeJerk.mean.X
 
 --------------------------------------------------------------------------------------------------
 
@@ -439,7 +439,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeBodyGyroscopeJerk.mean.Y
+  ### timeBodyGyroscopeJerk.mean.Y
 
 --------------------------------------------------------------------------------------------------
 
@@ -455,7 +455,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeBodyGyroscopeJerk.mean.Z
+  ### timeBodyGyroscopeJerk.mean.Z
 
 --------------------------------------------------------------------------------------------------
 
@@ -471,7 +471,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeBodyGyroscopeJerk.std.X
+  ### timeBodyGyroscopeJerk.std.X
 
 --------------------------------------------------------------------------------------------------
 
@@ -487,7 +487,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeBodyGyroscopeJerk.std.Y
+  ### timeBodyGyroscopeJerk.std.Y
 
 --------------------------------------------------------------------------------------------------
 
@@ -503,7 +503,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeBodyGyroscopeJerk.std.Z
+  ### timeBodyGyroscopeJerk.std.Z
 
 --------------------------------------------------------------------------------------------------
 
@@ -519,7 +519,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeBodyAccelerometerMagnitude.mean
+  ### timeBodyAccelerometerMagnitude.mean
 
 --------------------------------------------------------------------------------------------------
 
@@ -535,7 +535,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeBodyAccelerometerMagnitude.std
+  ### timeBodyAccelerometerMagnitude.std
 
 --------------------------------------------------------------------------------------------------
 
@@ -551,7 +551,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeGravityAccelerometerMagnitude.mean
+  ### timeGravityAccelerometerMagnitude.mean
 
 --------------------------------------------------------------------------------------------------
 
@@ -567,7 +567,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeGravityAccelerometerMagnitude.std
+  ### timeGravityAccelerometerMagnitude.std
 
 --------------------------------------------------------------------------------------------------
 
@@ -583,7 +583,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeBodyAccelerometerJerkMagnitude.mean
+  ### timeBodyAccelerometerJerkMagnitude.mean
 
 --------------------------------------------------------------------------------------------------
 
@@ -599,7 +599,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeBodyAccelerometerJerkMagnitude.std
+  ### timeBodyAccelerometerJerkMagnitude.std
 
 --------------------------------------------------------------------------------------------------
 
@@ -615,7 +615,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeBodyGyroscopeMagnitude.mean
+  ### timeBodyGyroscopeMagnitude.mean
 
 --------------------------------------------------------------------------------------------------
 
@@ -631,7 +631,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeBodyGyroscopeMagnitude.std
+  ### timeBodyGyroscopeMagnitude.std
 
 --------------------------------------------------------------------------------------------------
 
@@ -647,7 +647,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeBodyGyroscopeJerkMagnitude.mean
+  ### timeBodyGyroscopeJerkMagnitude.mean
 
 --------------------------------------------------------------------------------------------------
 
@@ -663,7 +663,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  timeBodyGyroscopeJerkMagnitude.std
+  ### timeBodyGyroscopeJerkMagnitude.std
 
 --------------------------------------------------------------------------------------------------
 
@@ -679,7 +679,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyAccelerometer.mean.X
+  ### frequencyBodyAccelerometer.mean.X
 
 --------------------------------------------------------------------------------------------------
 
@@ -695,7 +695,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyAccelerometer.mean.Y
+  ### frequencyBodyAccelerometer.mean.Y
 
 --------------------------------------------------------------------------------------------------
 
@@ -711,7 +711,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyAccelerometer.mean.Z
+  ### frequencyBodyAccelerometer.mean.Z
 
 --------------------------------------------------------------------------------------------------
 
@@ -727,7 +727,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyAccelerometer.std.X
+  ### frequencyBodyAccelerometer.std.X
 
 --------------------------------------------------------------------------------------------------
 
@@ -743,7 +743,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyAccelerometer.std.Y
+  ### frequencyBodyAccelerometer.std.Y
 
 --------------------------------------------------------------------------------------------------
 
@@ -759,7 +759,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyAccelerometer.std.Z
+  ### frequencyBodyAccelerometer.std.Z
 
 --------------------------------------------------------------------------------------------------
 
@@ -775,7 +775,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyAccelerometer.meanFreq.X
+  ### frequencyBodyAccelerometer.meanFreq.X
 
 --------------------------------------------------------------------------------------------------
 
@@ -791,7 +791,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyAccelerometer.meanFreq.Y
+  ### frequencyBodyAccelerometer.meanFreq.Y
 
 --------------------------------------------------------------------------------------------------
 
@@ -807,7 +807,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyAccelerometer.meanFreq.Z
+  ### frequencyBodyAccelerometer.meanFreq.Z
 
 --------------------------------------------------------------------------------------------------
 
@@ -823,7 +823,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyAccelerometerJerk.mean.X
+  ### frequencyBodyAccelerometerJerk.mean.X
 
 --------------------------------------------------------------------------------------------------
 
@@ -839,7 +839,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyAccelerometerJerk.mean.Y
+  ### frequencyBodyAccelerometerJerk.mean.Y
 
 --------------------------------------------------------------------------------------------------
 
@@ -855,7 +855,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyAccelerometerJerk.mean.Z
+  ### frequencyBodyAccelerometerJerk.mean.Z
 
 --------------------------------------------------------------------------------------------------
 
@@ -871,7 +871,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyAccelerometerJerk.std.X
+  ### frequencyBodyAccelerometerJerk.std.X
 
 --------------------------------------------------------------------------------------------------
 
@@ -887,7 +887,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyAccelerometerJerk.std.Y
+  ### frequencyBodyAccelerometerJerk.std.Y
 
 --------------------------------------------------------------------------------------------------
 
@@ -903,7 +903,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyAccelerometerJerk.std.Z
+  ### frequencyBodyAccelerometerJerk.std.Z
 
 --------------------------------------------------------------------------------------------------
 
@@ -919,7 +919,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyAccelerometerJerk.meanFreq.X
+  ### frequencyBodyAccelerometerJerk.meanFreq.X
 
 --------------------------------------------------------------------------------------------------
 
@@ -935,7 +935,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyAccelerometerJerk.meanFreq.Y
+  ### frequencyBodyAccelerometerJerk.meanFreq.Y
 
 --------------------------------------------------------------------------------------------------
 
@@ -951,7 +951,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyAccelerometerJerk.meanFreq.Z
+  ### frequencyBodyAccelerometerJerk.meanFreq.Z
 
 --------------------------------------------------------------------------------------------------
 
@@ -967,7 +967,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyGyroscope.mean.X
+  ### frequencyBodyGyroscope.mean.X
 
 --------------------------------------------------------------------------------------------------
 
@@ -983,7 +983,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyGyroscope.mean.Y
+  ### frequencyBodyGyroscope.mean.Y
 
 --------------------------------------------------------------------------------------------------
 
@@ -999,7 +999,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyGyroscope.mean.Z
+  ### frequencyBodyGyroscope.mean.Z
 
 --------------------------------------------------------------------------------------------------
 
@@ -1015,7 +1015,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyGyroscope.std.X
+  ### frequencyBodyGyroscope.std.X
 
 --------------------------------------------------------------------------------------------------
 
@@ -1031,7 +1031,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyGyroscope.std.Y
+  ### frequencyBodyGyroscope.std.Y
 
 --------------------------------------------------------------------------------------------------
 
@@ -1047,7 +1047,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyGyroscope.std.Z
+  ### frequencyBodyGyroscope.std.Z
 
 --------------------------------------------------------------------------------------------------
 
@@ -1063,7 +1063,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyGyroscope.meanFreq.X
+  ### frequencyBodyGyroscope.meanFreq.X
 
 --------------------------------------------------------------------------------------------------
 
@@ -1079,7 +1079,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyGyroscope.meanFreq.Y
+  ### frequencyBodyGyroscope.meanFreq.Y
 
 --------------------------------------------------------------------------------------------------
 
@@ -1095,7 +1095,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyGyroscope.meanFreq.Z
+  ### frequencyBodyGyroscope.meanFreq.Z
 
 --------------------------------------------------------------------------------------------------
 
@@ -1111,7 +1111,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyAccelerometerMagnitude.mean
+  ### frequencyBodyAccelerometerMagnitude.mean
 
 --------------------------------------------------------------------------------------------------
 
@@ -1127,7 +1127,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyAccelerometerMagnitude.std
+  ### frequencyBodyAccelerometerMagnitude.std
 
 --------------------------------------------------------------------------------------------------
 
@@ -1143,7 +1143,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyAccelerometerMagnitude.meanFreq
+  ### frequencyBodyAccelerometerMagnitude.meanFreq
 
 --------------------------------------------------------------------------------------------------
 
@@ -1159,7 +1159,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyAccelerometerJerkMagnitude.mean
+  ### frequencyBodyAccelerometerJerkMagnitude.mean
 
 --------------------------------------------------------------------------------------------------
 
@@ -1175,7 +1175,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyAccelerometerJerkMagnitude.std
+  ### frequencyBodyAccelerometerJerkMagnitude.std
 
 --------------------------------------------------------------------------------------------------
 
@@ -1191,7 +1191,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyAccelerometerJerkMagnitude.meanFreq
+  ### frequencyBodyAccelerometerJerkMagnitude.meanFreq
 
 --------------------------------------------------------------------------------------------------
 
@@ -1207,7 +1207,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyGyroscopeMagnitude.mean
+  ### frequencyBodyGyroscopeMagnitude.mean
 
 --------------------------------------------------------------------------------------------------
 
@@ -1223,7 +1223,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyGyroscopeMagnitude.std
+  ### frequencyBodyGyroscopeMagnitude.std
 
 --------------------------------------------------------------------------------------------------
 
@@ -1239,7 +1239,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyGyroscopeMagnitude.meanFreq
+  ### frequencyBodyGyroscopeMagnitude.meanFreq
 
 --------------------------------------------------------------------------------------------------
 
@@ -1255,7 +1255,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyGyroscopeJerkMagnitude.mean
+  ### frequencyBodyGyroscopeJerkMagnitude.mean
 
 --------------------------------------------------------------------------------------------------
 
@@ -1271,7 +1271,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyGyroscopeJerkMagnitude.std
+  ### frequencyBodyGyroscopeJerkMagnitude.std
 
 --------------------------------------------------------------------------------------------------
 
@@ -1287,7 +1287,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-  frequencyBodyGyroscopeJerkMagnitude.meanFreq
+  ### frequencyBodyGyroscopeJerkMagnitude.meanFreq
 
 --------------------------------------------------------------------------------------------------
 
