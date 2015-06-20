@@ -1,7 +1,7 @@
 # Getting and Cleaning Data: Course Project
 
 ## Instructions to use  **run_analysis.R**
-1. Download the Original Data Set [Here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+1. Download the Original Data Set [Here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 2. Unzip the Data Set and move the  **UCI HAR Dataset** folder to your R working directory
 3. Download  **run_analysis.R** and put it on your working Directory
 4. The script needs the data.table and plyr libraries, if you do not have them please install them before run the script by typing on the R console **install.packages("data.table")** and **install.packages("plyr")**
