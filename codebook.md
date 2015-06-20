@@ -10,7 +10,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 ## Tidy Data Set List of Variables
 
 
- ### Subject
+### Subject
 
 --------------------------------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ==================================================================================================
 
-   ### Activity
+### Activity
 
 --------------------------------------------------------------------------------------------------
 
