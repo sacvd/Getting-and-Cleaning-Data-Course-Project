@@ -11,7 +11,7 @@
 ## How the Script works
 1. Load the required data using the data.table function
 2. Merge the data using rbind and bind functions
-3. Use Regex to extract the mean and standard deviation 
+3. Use grepl function to extract the mean and standard deviation 
 4. Find activity ID and replace it with the values within activity_labels.txt
 5. Fix label names using gsub function
 6. Write tidydata.txt to the working directory
